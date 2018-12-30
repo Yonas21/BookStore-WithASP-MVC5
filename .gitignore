@@ -1,0 +1,6 @@
+#production 
+/obj
+/bin
+
+#setting
+/.vscode
