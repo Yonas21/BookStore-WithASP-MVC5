@@ -11,6 +11,6 @@ namespace Bookstore.Models
         [DataType(DataType.Date)]
         public DateTime releaseDate { get; set; }
 
-        public decimal price { get; set; }
+        public double price { get; set; }
     }
 }
